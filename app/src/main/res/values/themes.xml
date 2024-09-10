@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DrawerLayout" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+
+        <item name="colorPrimary">@color/blue_color</item>
+        <item name="colorPrimaryVariant">@color/blue_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue_color</item>
+        <item name="colorSecondaryVariant">@color/blue_color</item>
+        <item name="colorOnSecondary">@color/blue_color</item>
+    </style>
+
+    <style name="Theme.DrawerLayout" parent="Base.Theme.DrawerLayout" />
+
+    <style name="appbar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+
+        <item name="colorPrimary">@color/blue_color</item>
+        <item name="colorPrimaryVariant">@color/blue_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue_color</item>
+        <item name="colorSecondaryVariant">@color/blue_color</item>
+        <item name="colorOnSecondary">@color/blue_color</item>
+    </style>
+
+
+
+</resources>
